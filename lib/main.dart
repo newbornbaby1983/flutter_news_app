@@ -14,7 +14,7 @@ void main() {
   BlocSupervisor.delegate = SimpleBlocDelegate();
   runApp(MyApp());
 }
-
+//xxx
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
